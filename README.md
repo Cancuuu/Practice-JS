@@ -1,2 +1,2 @@
 # Practice-JS
-My practice and my small projects
+My practice and small projects
